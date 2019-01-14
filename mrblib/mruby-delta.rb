@@ -1,0 +1,4 @@
+#!ruby
+
+module Delta
+end
